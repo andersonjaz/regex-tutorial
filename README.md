@@ -19,7 +19,6 @@ This is a short summary of how to use Regex. /^([a-z0-9_.-]+)@([\da-z.-]+).([a-z
 - [Bracket Expressions](#bracket-expressions)
 - [Greedy and Lazy Match](#greedy-and-lazy-match)
 - [Boundaries](#boundaries)
-- [Back-references](#back-references)
 - [Look-ahead and Look-behind](#look-ahead-and-look-behind)
 
 ## Regex Components
